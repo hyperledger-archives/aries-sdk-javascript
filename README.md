@@ -1,4 +1,4 @@
-###Note: Migrating from Indy NodeJS Wrapper (https://github.com/hyperledger/indy-sdk/tree/master/wrappers/nodejs)
+### Note: Migrating from Indy NodeJS Wrapper (https://github.com/hyperledger/indy-sdk/tree/master/wrappers/nodejs)
 
 # Aries SDK for Node.js
 
